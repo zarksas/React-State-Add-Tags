@@ -1,0 +1,47 @@
+.general {
+    width: 500px;
+}
+.main {
+    margin-left: 10px;
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.button {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(75, 75, 75);
+    color: white;
+    border-radius: 10px;
+}
+.tagsButton {
+    height: 23px;
+    margin-left: 10px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: rgb(233, 233, 255);
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: blue;
+}
+
+.x {
+    background-color: blue;
+    margin-left: 15px;
+    color: white;
+    cursor: pointer;
+}
+
+.x:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.error {
+    color: red;
+}
